@@ -16,7 +16,6 @@ h3 {
 
 h1 {
   font-size: 96px;
-  
 }
 
 h2 {
@@ -53,7 +52,7 @@ p {
   color: white;
 }
 .primary-link:hover {
-  color:white;
+  color: white;
 }
 
 .secondary-link {
@@ -93,13 +92,13 @@ p {
 
 @media (max-width: 576px) {
   img {
-    display:none;
+    display: none;
   }
   h1 {
-    font-size:48px;
+    font-size: 48px;
     line-height: 1;
   }
-  
+
   h2 {
     font-size: 33px;
     text-align: center;
@@ -108,11 +107,10 @@ p {
   p {
     text-align: center;
   }
-  
-  .project-link{
-    display:block;
+
+  .project-link {
+    display: block;
     text-align: center;
     margin: 0;
   }
 }
-
